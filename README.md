@@ -77,4 +77,3 @@ flowchart TD
 ## Validation scope
 
 本目錄的交付只包含可審查 instructions 與 workflow 文件。未執行實際主機安裝、Conda 建環境、GPU job、scheduler submission、sudo、服務變更或外部 skill installation。
-
